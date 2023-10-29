@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Drixoun
-- 👀 I’m interested in programmation
-- 🌱 I’m currently learning java
+- 👀 I’m interested in programmation / game developpement
+- 🌱 I’m currently learning Unreal Engine 5
 - 💞️ I’m looking to collaborate on DrixCorp.
-- 📫 How to reach me drixcorp.ets@gmail.com
+- 📫 How to reach me drixoun.pro@gmail.com
 
 <!---
 Drixoun/Drixoun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
